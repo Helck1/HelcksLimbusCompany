@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LimbusLocalize_BIE</id>
+    <version>1.0.0</version>
+    <authors>LimbusLocalize_BIE</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="HarmonyX" version="2.5.2" exclude="Runtime,Build,Native,Analyzers,BuildTransitive" />
+        <dependency id="Il2CppInterop.Runtime" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\Release\LimbusLocalize_BIE.dll" target="lib\net6.0\LimbusLocalize_BIE.dll" />
+  </files>
+</package>

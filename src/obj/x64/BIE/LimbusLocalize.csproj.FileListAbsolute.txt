@@ -1,0 +1,18 @@
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\LimbusLocalize.csproj.AssemblyReference.cache
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\LimbusLocalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\LimbusLocalize.csproj.CoreCompileInputs.cache
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\Release\LimbusLocalize_BIE.deps.json
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\Release\LimbusLocalize_BIE.dll
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\LimbusLocalize.csproj.CopyComplete
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\LimbusLocalize_BIE.dll
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\refint\LimbusLocalize_BIE.dll
+C:\Users\timof\Source\Repos\HelcksLimbusCompany\src\obj\x64\BIE\ref\LimbusLocalize_BIE.dll
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\Release\LimbusLocalize_BIE.deps.json
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\Release\LimbusLocalize_BIE.dll
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\LimbusLocalize.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\LimbusLocalize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\LimbusLocalize.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\LimbusLocalize.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\LimbusLocalize_BIE.dll
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\refint\LimbusLocalize_BIE.dll
+C:\Users\ASUS\Desktop\Limbus Company\HelcksLimbusCompany-master\src\obj\x64\BIE\ref\LimbusLocalize_BIE.dll
