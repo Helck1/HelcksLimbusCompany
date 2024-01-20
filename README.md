@@ -3,44 +3,46 @@
    <img src="https://avatars.githubusercontent.com/u/129521269" />
 </a>
 
-# LocalizeLimbusCompany
-边狱公司 LimbusCompany 本地化模组
+# Helcks Inferno
+First time coding. Wish me luck. Future localization from Helck
 
-[![下载](https://img.shields.io/github/downloads/LocalizeLimbusCompany/LocalizeLimbusCompany/total.svg?label=下载)](../../releases)
-[![Version](https://img.shields.io/github/release/LocalizeLimbusCompany/LocalizeLimbusCompany.svg?label=最新版)](../../releases/latest)
-[![Localize Limbus Chat Group](https://img.shields.io/badge/加入-QQ群-blue?logo=tencent-qq)](https://jq.qq.com/?_wv=1027&k=5NE6Kvg2)
+[![](https://img.shields.io/github/downloads/LocalizeLimbusCompany/LocalizeLimbusCompany/total.svg?label=Placeholder)](../../releases)
+[![](https://img.shields.io/github/release/LocalizeLimbusCompany/LocalizeLimbusCompany.svg?label=Placeholder)](../../releases/latest)
 
-简体中文 | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH) | [English](./.github/EN_README.md)
+РусскийHLC | [РусскийLCBR](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [English](./.github/EN_README.md) | [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH)
 </div>
 
-# 安装
-### 0. 安装[.NET 6.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
-### 1. 安装模组框架
-   - 从[BepInEx](https://github.com/LocalizeLimbusCompany/BepInEx_For_LLC)下载最新版本的模组框架
-   
-   - 在Steam主界面右键游戏点击管理 浏览本地文件夹 将压缩包内所有东西**不 要 新 建 文 件 夹**的解压到上述弹出的文件夹中
-### 2. 安装字体文件
-   - 从[中文通用字体![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=更新日期)](../../../LLC_ChineseFontAsset)下载字体文件 后解压到上述文件夹中
-### 3. 安装汉化
-   - 从[最新版](../../releases)下载全量包 后解压到上述文件夹中
+# Инструкция по установке
+### 0. Скачайте и установите [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
+### 1. Скачайте [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/682/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.682%2B910844a.zip) и перенесите содержимое архива в папку с игрой. 
+   - Для этого нажмите ПКМ по игре в стим > Управление > Локальные файлы.
+   - Перенесите содержимое архива в открывшуюся папку.
+### 2. Скачайте русские шрифты
+   - [Placeholder![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=更新日期)](../../../LLC_ChineseFontAsset)
+### 3. Скачайте и установите файлы локализации
+   - [Placeholder](../../releases)
     
-   - [最新开发版](../../actions/workflows/dev.yml) 总是最新的
-   
-   - 通常情况下模组将在游戏更新后2~3天内更新
-## 我是谁?我在哪?我要干什么?
-   - [适用于看不懂上面的安装&更新程序](../../../LLC_MOD_Installer)
-# 相关
-- [QQ群](https://jq.qq.com/?_wv=1027&k=5NE6Kvg2) LLCG 686792849
-- [LLC 官网](https://www.zeroasso.top) 关于风格、翻译以及如何安装的详细信息
-- [LLC_MOD_Installer](../../../LLC_MOD_Installer) 模组傻瓜安装更新程序
-- [汉化组B站链接](https://space.bilibili.com/1247764479) 都市零协会汉化组
-- [边狱公司中文WIKI](https://limbuscompany.huijiwiki.com)
-- [ParaTranz 合作翻译项目](https://paratranz.cn/projects/6860) 汉化组的最新进展
-# 免责声明
-- **使用本模组完全免费。** 
-- **本模组已获得官方认可。** 月亮计划官方已声明不会对汉化模组封号。相关内容请查看[`特别公告`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)
-- **我们使用了MIT许可证。** 请前往[`LICENSE`](./LICENSE)或[`CN_LICENSE`](./.github/CN_LICENSE)了解相关许可。
-# 贡献者
+   - [Placeholder](../../actions/workflows/dev.yml) 
+## Placeholder
+   - Placeholder
+# Соцсети
+- [Placeholder](https://jq.qq.com/?_wv=1027&k=5NE6Kvg2) 
+- [Placeholder](https://www.zeroasso.top) 
+- [Placeholder](../../../LLC_MOD_Installer) 
+- [Placeholder](https://space.bilibili.com/1247764479) 
+- [Placeholder](https://limbuscompany.huijiwiki.com)
+- [Placeholder](https://paratranz.cn/projects/6860) 
+# Информация о локализации
+- **Мод абсолютно бесплатен.** 
+- **Оригинальный мод, на основе которого был выполнен текущий, одобрен разработчиками Limbus Company.** Вы можете в этом убедиться по этой ссылке: [`Специальное объявление`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)
+- **idk whats all that. Placeholder.** [`LICENSE`](./LICENSE) [`CN_LICENSE`](./.github/CN_LICENSE)。
+# Создатели оригинального мода
+<a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
+</a>
+
+## [译文ParaTranz项目](https://paratranz.cn/projects/6860/leaderboard)
+
 ## 本仓库
 <a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
