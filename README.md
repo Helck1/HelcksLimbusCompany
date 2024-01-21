@@ -3,7 +3,7 @@
    <img src="https://avatars.githubusercontent.com/u/129521269" />
 </a>
 
-# Helcks Inferno
+# Helck’s Inferno
 First time coding. Wish me luck. Future localization from Helck
 
 [![](https://img.shields.io/github/downloads/LocalizeLimbusCompany/LocalizeLimbusCompany/total.svg?label=Placeholder)](../../releases)
