@@ -3,8 +3,8 @@
    <img src="https://avatars.githubusercontent.com/u/129521269" />
 </a>
 
-# Helck’s Inferno
-First time coding. Wish me luck. Future localization from Helck
+# Divine Company
+Русификатор Limbus Company
 
 [![](https://img.shields.io/github/downloads/LocalizeLimbusCompany/LocalizeLimbusCompany/total.svg?label=Placeholder)](../../releases)
 [![](https://img.shields.io/github/release/LocalizeLimbusCompany/LocalizeLimbusCompany.svg?label=Placeholder)](../../releases/latest)
@@ -23,27 +23,13 @@ First time coding. Wish me luck. Future localization from Helck
    - [Placeholder](../../releases)
     
    - [Placeholder](../../actions/workflows/dev.yml) 
-## Placeholder
-   - Placeholder
-# Соцсети
-- [Placeholder](https://jq.qq.com/?_wv=1027&k=5NE6Kvg2) 
-- [Placeholder](https://www.zeroasso.top) 
-- [Placeholder](../../../LLC_MOD_Installer) 
-- [Placeholder](https://space.bilibili.com/1247764479) 
-- [Placeholder](https://limbuscompany.huijiwiki.com)
-- [Placeholder](https://paratranz.cn/projects/6860) 
+# Наши ссылки
+- [Discord]([https://jq.qq.com/?_wv=1027&k=5NE6Kvg2](https://discord.gg/SSZFWE4X)) 
 # Информация о локализации
 - **Мод абсолютно бесплатен.** 
 - **Оригинальный мод, на основе которого был выполнен текущий, одобрен разработчиками Limbus Company.** Вы можете в этом убедиться по этой ссылке: [`Специальное объявление`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)
 - **idk whats all that. Placeholder.** [`LICENSE`](./LICENSE) [`CN_LICENSE`](./.github/CN_LICENSE)。
 # Создатели оригинального мода
-<a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
-</a>
-
-## [译文ParaTranz项目](https://paratranz.cn/projects/6860/leaderboard)
-
-## 本仓库
 <a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
 </a>
