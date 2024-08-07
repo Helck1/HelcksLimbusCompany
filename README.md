@@ -14,15 +14,11 @@
 
 # Инструкция по установке
 ### 0. Скачайте и установите [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.406-windows-x64-installer)
-### 1. Скачайте [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/682/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.682%2B910844a.zip) и перенесите содержимое архива в папку с игрой. 
-   - Для этого нажмите ПКМ по игре в стим > Управление > Локальные файлы.
+### 1. Скачайте архив с файлами игры (тут нужна гиперссылка на релиз, где будут все файлы)
+### 2. Разархивируйте архив в папку с игрой
+   - Для этого нажмите ПКМ по игре в стим > Управление > Посмотреть локальные файлы.
    - Перенесите содержимое архива в открывшуюся папку.
-### 2. Скачайте русские шрифты
-   - [Placeholder![](https://img.shields.io/github/release/LocalizeLimbusCompany/LLC_ChineseFontAsset.svg?label=更新日期)](../../../LLC_ChineseFontAsset)
-### 3. Скачайте и установите файлы локализации
-   - [Placeholder](../../releases)
-    
-   - [Placeholder](../../actions/workflows/dev.yml) 
+### 3. Запустите игру
 # Наши ссылки
 - [Discord]([https://jq.qq.com/?_wv=1027&k=5NE6Kvg2](https://discord.gg/SSZFWE4X)) 
 # Информация о локализации
