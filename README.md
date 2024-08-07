@@ -9,7 +9,7 @@
 [![](https://img.shields.io/github/downloads/LocalizeLimbusCompany/LocalizeLimbusCompany/total.svg?label=Placeholder)](../../releases)
 [![](https://img.shields.io/github/release/LocalizeLimbusCompany/LocalizeLimbusCompany.svg?label=Placeholder)](../../releases/latest)
 
-РусскийHLC | [РусскийLCBR](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [English](./.github/EN_README.md) | [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH)
+РусскийDC | [РусскийLCBR](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [English](./.github/EN_README.md) | [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH)
 </div>
 
 # Инструкция по установке
