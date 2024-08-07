@@ -24,7 +24,7 @@
 # Информация о локализации
 - **Мод абсолютно бесплатен.** 
 - **Оригинальный мод, на основе которого был выполнен текущий, одобрен разработчиками Limbus Company.** Вы можете в этом убедиться по этой ссылке: [`Специальное объявление`](https://github.com/orgs/LocalizeLimbusCompany/discussions/70)
-- **idk whats all that. Placeholder.** [`LICENSE`](./LICENSE) [`CN_LICENSE`](./.github/CN_LICENSE)。
+- **Лицензии.** [`LICENSE`](./LICENSE) [`CN_LICENSE`](./.github/CN_LICENSE)。
 # Создатели оригинального мода
 <a href="https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=LocalizeLimbusCompany/LocalizeLimbusCompany" />
