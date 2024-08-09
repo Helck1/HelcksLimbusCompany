@@ -9,7 +9,7 @@
 [![Скачиваний](https://img.shields.io/github/downloads/Divine-Company/DivineCompany_RussianTranslationDepartment/total.svg?label=Скачиваний)](../../releases)
 [![Версия](https://img.shields.io/github/release/Divine-Company/DivineCompany_RussianTranslationDepartment.svg?label=Версия)](../../releases/latest)
 
-[РусскийDC](https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment) | [РусскийLCBR](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [English](./.github/EN_README.md) | [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH)
+[РусскийDC](https://github.com/Divine-Company/DivineCompany_RussianTranslationDepartment) | [РусскийLCBR](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [Chinese](./.github/EN_README.md)
 </div>
 
 # Инструкция по установке
